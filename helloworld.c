@@ -2,7 +2,7 @@
 
 int main()
 {
-  printf("Hello World!\n");
+  printf("Hello world!\n");
 	// this is a comment. Woah really?
   return 0;
 }
